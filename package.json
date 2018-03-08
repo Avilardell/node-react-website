@@ -1,0 +1,23 @@
+{
+  "name": "node-react-website",
+  "version": "1.0.0",
+  "description": "Full-stack React website with server side render ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-react-website"
+  },
+  "keywords": [
+    "ReactJS",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Redis",
+    "SSR"
+  ],
+  "author": "Albert Vilardell",
+  "license": "ISC"
+}
